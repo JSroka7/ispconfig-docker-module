@@ -1,2 +1,2 @@
-# ispconfig-docker-module
+# Ispconfig docker module
 Docker container management tool for Ispconfig
